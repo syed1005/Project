@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Faraz's Personal Site</title>
+  <link rel="stylesheet" href="CSS/style.css">
+
+</head>
+<body>
+  <table cellspacing = "10px">
+    <tr>
+      <td><img src="Images/faraz-modified.png" alt="Faraz's picture" style="width:200px;height:200px;"></td>
+      <td><h1>Syed Faraz Ahmad</h1>
+        <p><em>Student at <strong><a href="https://www.heritageit.edu/">Heritage Institute Of Technology</a></strong>.</em></p>
+        <p>Hello I am Syed Faraz Ahmad. I like to play <em><strong>Video Games.</strong></em>
+        </p></td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <table cellspacing = "10px">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Class</th>
+        <th>School/College Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2015</td>
+        <td>10th</td>
+        <td>Guru Nanak Higher Secondary School</td>
+      </tr>
+      <tr>
+        <td>2018</td>
+        <td>12th</td>
+        <td>J.J.I College</td>
+      </tr>
+      <tr>
+        <td>2018-2021</td>
+        <td>Bachelor Of Computer Application</td>
+        <td>Singhania University</td>
+      </tr>
+      <tr>
+        <td>2021-2023</td>
+        <td>Master Of Computer Application</td>
+        <td>Heritage Institute Of Technology</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing = "10px">
+    <thead>
+      <tr>
+        <td>Skills</td>
+        <td>Rating</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Java</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Web Development</td>
+        <td>⭐⭐</td>
+      </tr>
+      <tr>
+        <td>SQL</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a><br>
+  <a href="contact-me.html">Contact Me</a>
+</body>
+</html>
